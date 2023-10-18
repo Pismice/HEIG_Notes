@@ -116,4 +116,4 @@ Critères de brevetabilité:
 2. Nouveauté
 3. Activité inventive
 
-![[Pasted image 20231018152603.png]]
+![[images/Pasted image 20231018152603.png]]
